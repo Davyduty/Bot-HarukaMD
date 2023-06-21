@@ -1,2 +1,2 @@
 > **Warning**
-> Developed By > Tiann-Dev
+Developed By Tiann-Dev
