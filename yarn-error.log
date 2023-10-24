@@ -18,7 +18,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "Haruka-Md",
+    "name": "Davyduty-wizard",
     "version": "11.0.0",
     "description": "whatsapp tob with multi device.",
     "main": "haruka.js",
